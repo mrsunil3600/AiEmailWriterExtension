@@ -136,8 +136,3 @@ EmailWriterExtension/
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/> </div> ```
 🔥 Result
 
-Is README se:
-
-⭐ Repo professional lagega
-💼 Resume strong ho jayega
-👀 Recruiter impressed hoga instantly
